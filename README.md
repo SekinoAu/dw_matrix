@@ -1,2 +1,3 @@
-# dw_matrix
-ML1
+# Projekt transformacja - Matrix
+
+Repozytorium na kolejny tydzien zadan z DataWorkshop
